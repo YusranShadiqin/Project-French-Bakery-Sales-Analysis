@@ -1,0 +1,46 @@
+
+Dalam membuat laporan data dari situasi Anda, berikut adalah alur yang bisa Anda ikuti:
+
+1. Pendahuluan:
+
+Jelaskan konteks proyek Anda dan tujuan pembuatan laporan.
+Sertakan deskripsi singkat tentang dataset yang Anda gunakan, termasuk sumbernya dan karakteristiknya.
+
+2. Metodologi:
+
+Jelaskan metode yang Anda gunakan dalam melakukan EDA (Exploratory Data Analysis).
+Berikan informasi tentang teknik-teknik analisis yang Anda terapkan, seperti penggunaan statistik deskriptif, visualisasi data, atau pemodelan.
+
+3. EDA Findings:
+
+Berikan ringkasan temuan utama dari EDA yang Anda lakukan.
+Jelaskan pola, tren, atau hubungan yang signifikan yang Anda temukan dalam dataset.
+Sertakan visualisasi data yang mendukung temuan Anda, baik dalam bentuk grafik, diagram, atau tabel.
+
+4. Analisis Lebih Mendalam:
+
+Jika Anda melakukan analisis yang lebih mendalam, misalnya dengan menggunakan teknik machine learning atau analisis prediktif, jelaskan metode yang Anda gunakan.
+Sertakan hasil analisis dan temuan yang relevan dengan proyek Anda.
+Jelaskan interpretasi Anda terhadap hasil tersebut dan bagaimana hal itu berhubungan dengan tujuan proyek Anda.
+
+5. Visualisasi Power BI:
+
+Jelaskan tentang visualisasi yang telah Anda buat menggunakan Power BI.
+Sertakan tangkapan layar atau gambar dari visualisasi tersebut.
+Jelaskan bagaimana visualisasi tersebut memberikan wawasan tambahan atau membantu dalam memahami data.
+
+6. Kesimpulan:
+
+Ringkas temuan Anda dan sampaikan kesimpulan utama dari proyek Anda.
+Jelaskan bagaimana analisis data dan visualisasi yang Anda lakukan berkontribusi terhadap pemahaman Anda tentang dataset dan tujuan proyek Anda.
+
+7. Saran dan Rekomendasi:
+
+Berikan saran atau rekomendasi berdasarkan hasil analisis Anda.
+Jelaskan tindakan yang dapat diambil berdasarkan temuan Anda.
+Berikan wawasan tentang pengembangan atau peningkatan yang mungkin dilakukan di masa depan.
+
+8. Daftar Referensi:
+
+Sertakan daftar referensi atau sumber daya yang Anda gunakan dalam proyek Anda, termasuk dataset dan sumbernya.
+Pastikan laporan Anda mudah dibaca dengan menggunakan bahasa yang jelas dan memperhatikan tata letak yang baik. Selain itu, lampirkan juga dataset asli, kode program (jika ada), dan tangkapan layar dari visualisasi Power BI Anda sebagai lampiran jika diperlukan.
